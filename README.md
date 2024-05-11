@@ -1,63 +1,20 @@
----
-datapackage:
-  title: Welcome to your template dataset page!
-  description: This is a template for publishing your dataset with Datahub Cloud. 
-  licenses:
-  - path: http://opendatacommons.org/licenses/pddl/
-    title: Open Data Commons Public Domain Dedication and License v1.0
-  resources:
-  - path: data.csv
-    title: C02 PPM per decade
-    name: c02-per-decade
-    format: csv
-    schema:
-      fields:
-      - name: year
-        type: date
-      - name: co2
-        type: number
----
+# Don’t forget them: more than 700 journalists and media workers remain imprisoned
+-	16,25% were detained in China
+-	At least a third of the imprisoned media workers were charged with anti-state crimes
+-	Freelancers are particularly at risk, say CPJ and RSF figures
+	
+_By César Heredia, data journalist_
 
-Welcome to the body of your dataset site. Everything above this section is part of the Data package front matter. 
+At least **seven hundred twenty journalists and media workers from 59 countries are currently imprisoned or disappeared** (including forced disappearances), according to data from the Committee to Protect Journalists (CPJ) and Reporters Without Borders (RSJ for its French acronym).
 
-# Overview
+China (117), Myanmar (75), Belarus (43), and Russia (42) are the States with more journalists detained as of today. However, based on their respective populations, Bahrain (6.73), Eritrea (5.87), and Belarus (4.53) have more journalists imprisoned per million inhabitants.
 
-Here is a quick overview of the template structure:
+### Freelancers are particularly vulnerable
 
-![[Overview.png]]
+22.6% (163) of the imprisoned or disappeared journalists **are not formally enlisted in any organization or media outlet**. As a consequence, they were labeled as **freelancers** by CPJ and RSF. Of those, 12.9% (21) were detained in Myanmar, 11.7% (19) in Iran, and 11% (18) in Syria. A third of them were charged with anti-state crimes.
 
-## Structured data
+More than half of the imprisoned/disappeared media workers (56.9%) were detained between 2021 and this year. Only in 2023, **149 journalists were put in jail**.
 
-```mermaid
-  graph TD;
-      Data-Package-Frontmatter-->Dataset-title
-      Data-Package-Frontmatter-->Data-package-metadata
-      Data-Package-Frontmatter-->Short-description;
-      Data-Package-Frontmatter-->Data-files-list;
-      Data-Package-Frontmatter-->Data-Previews;
-```
+Recently, RSF's [2024 World Press Freedom research]([https://rsf.org/en/2024-world-press-freedom-index-journalism-under-political-pressure](https://rsf.org/en/index?year) found out that [75% of 180 countries currently face different levels of negative press freedom](https://datahub.io/@cheredia19/press-freedom-2024).
 
-Feel free to customize the data package frontmatter accordingly when publishing your own data. 
-
-## Unstructured data
-
-You can add as many markdown files to your GitHub repository as you like, and you can freely nest them in subdirectories. You can also enhance your content with other data visualisation components and markdown features.
-
-> Note: For a full list of supported markdown features visit https://flowershow.app/docs/syntax
-
-Here are some quick examples:
-
-> [!info] This is cool!
-> Here's a callout block.
-> It supports **markdown** and [[Internal link|wikilinks]].
-
-Or you can quickly embed a piece of code as follows:
-
-```
-const ExampleCode = () => {
-  return <div> .... </div>;
-};
-```
-
-## To read more about how this works, refer to the [docs page](docs).
-
+The high number of imprisoned or disappeared journalists, and the state of press freedom worldwide, call for reflection about the precarious condition of media workers amidst several conflicts and the rise of authoritative regimes around the world.
