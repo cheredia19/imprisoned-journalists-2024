@@ -26,6 +26,4 @@ Recently, RSF's [2024 World Press Freedom research](https://rsf.org/en/index?yea
 
 The high number of imprisoned or disappeared journalists, and the state of press freedom worldwide, call for reflection about the precarious condition of media workers amidst several conflicts and the rise of authoritative regimes around the world.
 
-<FlatUiTable
-  url='imprisoned_journalists_2024.csv'
- />
+<Table url="imprisoned_journalists_2024.csv" />
