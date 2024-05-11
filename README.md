@@ -5,7 +5,7 @@
 	
 _By César Heredia, data journalist_
 
-At least **seven hundred twenty journalists and media workers from 59 countries are currently imprisoned or disappeared** (including forced disappearances), according to data from the Committee to Protect Journalists (CPJ) and Reporters Without Borders (RSJ for its French acronym).
+At least **seven hundred twenty journalists and media workers from 59 countries are currently imprisoned or disappeared** (including forced disappearances), according to data from the Committee to Protect Journalists (CPJ) and Reporters Without Borders (RSF for its French acronym).
 
 China (117), Myanmar (75), Belarus (43), and Russia (42) are the States with more journalists detained as of today. However, based on their respective populations, Bahrain (6.73), Eritrea (5.87), and Belarus (4.53) have more journalists imprisoned per million inhabitants.
 
