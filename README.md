@@ -17,7 +17,7 @@ More than half of the imprisoned/disappeared media workers (56.9%) were detained
 
 <LineChart 
     title="Currently imprisoned journalists and media workers per year"  
-    xAxis=yYear"
+    xAxis=year"
     yAxis="imprisoned" 
     data="per_year.csv"
 />
