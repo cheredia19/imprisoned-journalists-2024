@@ -15,6 +15,6 @@ China (117), Myanmar (75), Belarus (43), and Russia (42) are the States with mor
 
 More than half of the imprisoned/disappeared media workers (56.9%) were detained between 2021 and this year. Only in 2023, **149 journalists were put in jail**.
 
-Recently, RSF's [2024 World Press Freedom research]([https://rsf.org/en/2024-world-press-freedom-index-journalism-under-political-pressure](https://rsf.org/en/index?year) found out that [75% of 180 countries currently face different levels of negative press freedom](https://datahub.io/@cheredia19/press-freedom-2024).
+Recently, RSF's [2024 World Press Freedom research](https://rsf.org/en/index?year) found out that [75% of 180 countries currently face different levels of negative press freedom](https://datahub.io/@cheredia19/press-freedom-2024).
 
 The high number of imprisoned or disappeared journalists, and the state of press freedom worldwide, call for reflection about the precarious condition of media workers amidst several conflicts and the rise of authoritative regimes around the world.
