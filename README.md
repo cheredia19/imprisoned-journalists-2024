@@ -9,6 +9,14 @@ At least **seven hundred twenty journalists and media workers from 59 countries 
 
 China (117), Myanmar (75), Belarus (43), and Russia (42) are the States with more journalists detained as of today. However, based on their respective populations, Bahrain (6.73), Eritrea (5.87), and Belarus (4.53) have more journalists imprisoned per million inhabitants.
 
+## Imprisoned journalists per country
+
+<FlatUiTable
+  data={{
+    url: 'per_location.csv'
+  }}
+/>
+
 ### Freelancers are particularly vulnerable
 
 22.6% (163) of the imprisoned or disappeared journalists **are not formally enlisted in any organization or media outlet**. As a consequence, they were labeled as **freelancers** by CPJ and RSF. Of those, 12.9% (21) were detained in Myanmar, 11.7% (19) in Iran, and 11% (18) in Syria. A third of them were charged with anti-state crimes.
