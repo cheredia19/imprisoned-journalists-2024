@@ -15,11 +15,12 @@ China (117), Myanmar (75), Belarus (43), and Russia (42) are the States with mor
 
 More than half of the imprisoned/disappeared media workers (56.9%) were detained between 2021 and this year. Only in 2023, **149 journalists were put in jail**.
 
+## Imprisoned journalists by year
 <PlotlyLineChart
   data={{
     url: 'per_year.csv'
   }}
-  title="Imprisoned journalists by year"
+  title="362 journalists and media workers were detained between 2021 and 2023"
   xAxis="year"
   yAxis="imprisoned"
 />
