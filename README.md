@@ -19,7 +19,17 @@ China (117), Myanmar (75), Belarus (43), and Russia (42) are the States with mor
 
 ### Freelancers are particularly vulnerable
 
-22.6% (163) of the imprisoned or disappeared journalists **are not formally enlisted in any organization or media outlet**. As a consequence, they were labeled as **freelancers** by CPJ and RSF. Of those, 12.9% (21) were detained in Myanmar, 11.7% (19) in Iran, and 11% (18) in Syria. A third of them were charged with anti-state crimes.
+22.6% (163) of the imprisoned or disappeared journalists **are not formally enlisted in any organization or media outlet**. As a consequence, they were labeled as **freelancers** by CPJ and RSF. Of those, 12.9% (21) were detained in Myanmar, 11.7% (19) in Iran, and 11% (18) in Syria. At least a third of them were charged with anti-state crimes.
+
+## Charges faced by imprisoned journalist
+
+<PlotlyBarChart
+  data={{
+    url: 'freelancers_charge.csv'
+  }}
+  xAxis="Charges"
+  yAxis="Imprisoned"
+/>
 
 More than half of the imprisoned/disappeared media workers (56.9%) were detained between 2021 and this year. Only in 2023, **149 journalists were put in jail**.
 
