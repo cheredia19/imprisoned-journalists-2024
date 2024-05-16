@@ -25,10 +25,10 @@ China (117), Myanmar (75), Belarus (43), and Russia (42) are the States with mor
 
 <PlotlyBarChart
   data={{
-    url: 'freelancers_location.csv'
+    url: 'freelancer_location.csv'
   }}
-  xAxis="Charges"
-  yAxis="Imprisoned"
+  xAxis="Country"
+  yAxis="%"
 />
 
 At least a third of them were charged with anti-state crimes.
