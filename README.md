@@ -66,4 +66,4 @@ The high number of imprisoned or disappeared journalists, and the state of press
     url: 'imprisoned_journalists_2024.csv'
   }}
 />
-Sources: [CPJ](CPJ.org/data/imprisoned/), [RSF](rsf.org/en/barometer)
+**means missing or forcibly disappeared*. Sources: [CPJ](CPJ.org/data/imprisoned/), [RSF](rsf.org/en/barometer)
